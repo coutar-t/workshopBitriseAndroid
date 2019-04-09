@@ -22,10 +22,15 @@ platform :android do
     gradle(
       task: "test"
     )
+
     # lint
     gradle(
       task: "lint"
     )
 
+    # codecov
+    gradle(
+      task: "jacocoTestReport"
+    )
   end
 end
