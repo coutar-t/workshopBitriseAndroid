@@ -19,6 +19,13 @@ platform :android do
   desc "CI"
   lane :ci do
     # test
-    gradle(task: "test")
+    gradle(
+      task: "test"
+    )
+    # lint
+    gradle(
+      task: "lint"
+    )
+
   end
 end
