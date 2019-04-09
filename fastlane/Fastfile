@@ -47,5 +47,11 @@ platform :android do
       build_type: "Release"
     )
 
+    # upload to store
+    upload_to_play_store(
+      json_key: 'api-5946200078214302311-435660-cc2f74dfcfeb.json',
+      track: 'beta'
+    )
+
   end
 end
