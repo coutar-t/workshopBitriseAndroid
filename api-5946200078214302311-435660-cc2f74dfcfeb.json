@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-5946200078214302311-435660",
+  "private_key_id": "cc2f74dfcfebfc22d208bb8e95c22d1da4da42b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDE1pPCxFzF/aZq\nHJbSetoJ283pq8V1lFWmPB4Myo2f6x0S+J6s+V/G/9p57wQlcFs3bS19kN6fqYG8\nj/I+nLPnqjbITP5lh1w0BH5XpPMNRLk8p1hJPz6/0gfirSz6t8zJ3kX6/AzjB0vm\nOaf0+n99BUxUC0Nf//tIh/KFYdBdJV6uwpsGlnAkr+JRxXMLZ4ANWkVjSnyC7qTG\n4rqj9lSCbzS7myXqJUSt6Q1IQPkltTNHvy488zCGgj4F34hyq+fk1og1wXCZUiB5\nZSg064T+6o8kLHIH+UZW0jEbiKoIAyQyGNMIWEc/S+Eq8CWzoyYfWRMWMVU2dr5K\nljmF9QyhAgMBAAECggEAHuOff36KIoXqEhfXcUNXKRnlx+gtTgTPpg0kGBTHQdPH\nFb2PRQzDQ3rOIblo+KkXn2ySKXTNAtg6ZElglgPIVbAH9cnjWDJ0PTOBUiav/6KL\nwSFvwNrccYS3uRI9D0E9sWYgrEDWkuAHwKLGoTKYRBnLPxsfYRbOK7Ut0VGmvZ8D\nVKo2BxXj8stGo1NhOmgodW1W0mf2jwOemTjotHKycsnPlz/x6RXzoK6FW1ZVgB/Y\nX1hbOZN0VZdpvUToJx5Y8cCXgAicbTP1tBZKOPA8z9lEjB93G85nr+fUgSR5XcS+\nNhIjaBE0qEoKk3vc3WOBh1bYrmjPhzs/iEqobSl+WQKBgQD5KowCur5hBgkBNU2q\nG7+RZRGqoc9S31IJ92huQS51Nyso3GC74MJ6HIbEd041AX5gSPztlNUGnVbZbulv\np++BZPZQu+48XlAA0LP8RXuskox6lh/YzRIc03urEPu4HpEF+4RGvvGkXhgkDhoa\n3tjw87TLUaFaCgLY5FnZ9NLYNQKBgQDKPJ+SRwq5vHXhqALUTflU9e0e8A8e3Iwf\nn+8kdoKNE6BJOpSOVAPZOdK+qFuAqSceFsxxq5+ELg0tr6zd9Z/insDVkr0s/doW\nZeUgJ+FO/k5p2XVsuqwhoIXx3GBzWxYxaNDS+XIRhiSSDJVQm/PdwRU5+9wdRj8I\nH1oDmJpoPQKBgGbAJvDRNcUpCfmXk6l8u+kndruY8rhII7q8bjJZauEnmQLGrpWL\nwGc+8EyArp2pOgZW0wbeg2Kw66nK1TUYWepQSktM1JfMhM1xQ2fa939ZB9ldo1By\ncO+2Pp9y53ssD74Z1JigEWIo82ea8ST3lRr4RSw7Q4Cv9DChKnR5Q6GpAoGAGWo8\n83kSE/1nIxCmKmASMWcmgXjRraMxyNekigSKq4gH4KwH90r/oNDvdx5ZQXYAgHuE\n/dP/m/DdnxwwsUQo76XbvftO4tSUD7SGcuAQJIk4+XxmkV90OlWd/6MeS+DqjRML\nCzhl6WXeOqxyJ0sx/nBBZqQMKXGmgjLOcR1AalECgYBPU4RLNzKAiFsPyZ6OZ8IT\ntMFJGIF1l/e+KlerFKdB16WcNlA7VvjSULCBD1RN204MUUtttqCQeQ919poWOHXo\nVYus073zwRiTzuRBwvMGmIk0HBQ2ZpfWou/z64cPMpi0uRecLrNhiPbbT+sjBWo6\nqhFuvIkuNJIB696USmPZow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "workshopbitriseandroid@api-5946200078214302311-435660.iam.gserviceaccount.com",
+  "client_id": "100916984535960968025",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/workshopbitriseandroid%40api-5946200078214302311-435660.iam.gserviceaccount.com"
+}
