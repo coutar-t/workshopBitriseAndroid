@@ -33,4 +33,19 @@ platform :android do
       task: "jacocoTestReport"
     )
   end
+
+  desc "CD"
+  lane :cd do
+    # clean
+    gradle(
+      task: "clean"
+    )
+
+    # release
+    gradle(
+      task: "assemble",
+      build_type: "Release"
+    )
+
+  end
 end
