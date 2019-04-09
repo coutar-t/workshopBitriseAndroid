@@ -37,7 +37,7 @@ android {
         release {
             keyAlias 'key0'
             keyPassword 'test123'
-            storeFile file('/Users/thibautcoutard/tmp/android/workshopBitriseAndroid/key')
+            storeFile file('../key')
             storePassword 'test123'
         }
     }
